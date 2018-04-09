@@ -1,5 +1,9 @@
 # App Stream
-Streaming service mobile application. Only design provided. Illustrates video, music and news streaming. The sole aim of this project was for learning.
+Streaming service mobile application. 
+Only design provided. 
+Illustrates video, music and news streaming. 
+The sole aim of this project was for personal and mental development as a mobile app developer. 
+I actually learned how to design mobile applications using Ionic Framework, Javascript and CSS technologies.
 
 # Built With
 * Ionic Framework v3
