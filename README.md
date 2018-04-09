@@ -9,7 +9,7 @@ I actually learned how to design mobile applications using Ionic Framework, Java
 * Ionic Framework v3
 
 # License
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the `LICENSE.md` file for details
 
 # Acknowledgments
 I followed a series of video tutorials all through the way in order to achieve the design of this application. 
