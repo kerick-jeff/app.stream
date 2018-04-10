@@ -26,7 +26,7 @@ import { LoginPageModule } from '../pages/login/login.module';
     NewsPageModule,
     ProfilePageModule,
     IntroPageModule,
-    LoginPageModule
+    LoginPageModule,
   ],
   bootstrap: [IonicApp],
   entryComponents: [
