@@ -24,3 +24,5 @@ The series can be found on Udemy at https://www.udemy.com/design-ionic-apps/
 ![Video Detail Page](/screenshots/videodetail.png)
 ![Music Stream Page](/screenshots/musics.png)
 ![News Feed Page](/screenshots/news.png)
+![Profile Page](/screenshots/profile1.png)
+![Profile Page](/screenshots/profile2.png)
